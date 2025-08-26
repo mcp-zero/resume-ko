@@ -1,0 +1,14 @@
+We are looking for a Senior Software Engineer with expertise in:
+
+Required Skills:
+- Go programming language
+- RESTful API development
+- Database design and optimization
+- Cloud infrastructure (AWS, GCP)
+- Containerization (Docker, Kubernetes)
+- CI/CD pipelines
+
+Preferred Skills:
+- React or Vue.js
+- Microservices architecture
+- Machine learning

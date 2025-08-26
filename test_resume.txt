@@ -1,0 +1,8 @@
+John Doe
+Software Engineer
+
+Experience:
+- 5 years of experience in Go programming
+- Web development with React and Node.js
+- Database design with MySQL and MongoDB
+- Cloud deployment on AWS

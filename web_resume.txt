@@ -1,0 +1,18 @@
+张三
+高级后端工程师
+
+工作经验：
+- 5年Go语言和后端开发经验
+- 熟悉微服务架构设计和实施
+- 精通MySQL数据库设计和优化技巧
+- 有分布式系统开发经验
+- 有AWS云平台和GCP使用经验
+- 熟练使用Docker容器化技术和Kubernetes
+- 了解CI/CD流程和Git版本控制
+- 具备良好的沟通能力和团队协作精神
+
+技能：
+- 编程语言：Go, Python, JavaScript
+- 数据库：MySQL, MongoDB, Redis
+- 云平台：AWS, GCP, 阿里云
+- 工具：Git, Docker, Kubernetes, CI/CD
