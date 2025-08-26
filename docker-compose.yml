@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  resume-ko:
+    build: .
+    ports:
+      - "8168:8168"
+    volumes:
+      - ./resource:/app/resource
