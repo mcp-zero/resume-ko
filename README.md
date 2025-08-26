@@ -69,6 +69,24 @@ docker-compose down
 
 就是这么简单！🚀
 
+#### CentOS版本Docker镜像
+
+我们还提供了基于CentOS的Docker镜像，适用于需要在CentOS/OpenCloudOS环境中运行的用户：
+
+```bash
+# 拉取CentOS版本镜像
+docker pull chuangyeshuo/resume-ko:centos
+
+# 运行CentOS版本容器
+docker run -d -p 8168:8168 --name resume-ko-centos chuangyeshuo/resume-ko:centos
+
+# 访问应用
+# 浏览器打开 http://localhost:8168
+
+# 停止并删除容器
+docker stop resume-ko-centos && docker rm resume-ko-centos
+```
+
 ### 💻 本地部署
 
 #### 前提条件
